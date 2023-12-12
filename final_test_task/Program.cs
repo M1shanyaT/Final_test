@@ -1,5 +1,15 @@
-﻿string[] res = GetArray(5);
-Console.WriteLine($"Первоначальный массив: [{String.Join("; ", res)}]");
+﻿string[] arrayOne = GetArray(5);
+int lengthArrayTwo = 0;
+for (int i = 0; i <= arrayOne.Length - 1; i++)
+{
+    if (arrayOne[i].Length <= 3) lengthArrayTwo++;
+}
+
+void PrintArray(string[] array)
+{
+    Console.WriteLine($"[{String.Join("; ", array)}]");
+}
+
 string[] GetArray(int size)
 {
 string[] array = new string[size]; 
@@ -10,3 +20,6 @@ array[i] = Console.ReadLine();
 }
 return array;
 }
+
+
+

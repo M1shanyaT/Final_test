@@ -1,0 +1,15 @@
+C:\Users\malio\OneDrive\Рабочий стол\Final_test\final_test_task\bin\Debug\net6.0\final_test_task.exe
+C:\Users\malio\OneDrive\Рабочий стол\Final_test\final_test_task\bin\Debug\net6.0\final_test_task.deps.json
+C:\Users\malio\OneDrive\Рабочий стол\Final_test\final_test_task\bin\Debug\net6.0\final_test_task.runtimeconfig.json
+C:\Users\malio\OneDrive\Рабочий стол\Final_test\final_test_task\bin\Debug\net6.0\final_test_task.dll
+C:\Users\malio\OneDrive\Рабочий стол\Final_test\final_test_task\bin\Debug\net6.0\final_test_task.pdb
+C:\Users\malio\OneDrive\Рабочий стол\Final_test\final_test_task\obj\Debug\net6.0\final_test_task.csproj.AssemblyReference.cache
+C:\Users\malio\OneDrive\Рабочий стол\Final_test\final_test_task\obj\Debug\net6.0\final_test_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malio\OneDrive\Рабочий стол\Final_test\final_test_task\obj\Debug\net6.0\final_test_task.AssemblyInfoInputs.cache
+C:\Users\malio\OneDrive\Рабочий стол\Final_test\final_test_task\obj\Debug\net6.0\final_test_task.AssemblyInfo.cs
+C:\Users\malio\OneDrive\Рабочий стол\Final_test\final_test_task\obj\Debug\net6.0\final_test_task.csproj.CoreCompileInputs.cache
+C:\Users\malio\OneDrive\Рабочий стол\Final_test\final_test_task\obj\Debug\net6.0\final_test_task.dll
+C:\Users\malio\OneDrive\Рабочий стол\Final_test\final_test_task\obj\Debug\net6.0\refint\final_test_task.dll
+C:\Users\malio\OneDrive\Рабочий стол\Final_test\final_test_task\obj\Debug\net6.0\final_test_task.pdb
+C:\Users\malio\OneDrive\Рабочий стол\Final_test\final_test_task\obj\Debug\net6.0\final_test_task.genruntimeconfig.cache
+C:\Users\malio\OneDrive\Рабочий стол\Final_test\final_test_task\obj\Debug\net6.0\ref\final_test_task.dll
