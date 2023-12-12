@@ -1,9 +1,26 @@
-﻿string[] arrayOne = GetArray(5);
+﻿Console.Write("Введите длинну массива -> ");
+int length = Convert.ToInt32(Console.ReadLine());
+
+string[] arrayOne = GetArray(length);
 int lengthArrayTwo = 0;
-for (int i = 0; i <= arrayOne.Length - 1; i++)
+for (int j = 0; j < arrayOne.Length; j++)  
 {
-    if (arrayOne[i].Length <= 3) lengthArrayTwo++;
+    if (arrayOne[j].Length <= 3) lengthArrayTwo++;
 }
+
+string[] arrayTwo = new string[lengthArrayTwo];
+int index = 0;
+
+
+for (int k = 0; k < arrayOne.Length; k++)
+{
+    if (arrayOne[k].Length <= 3)
+    {
+        arrayTwo[index] = arrayTwo[k];
+        index++;
+    }
+}
+
 
 void PrintArray(string[] array)
 {
