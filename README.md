@@ -23,6 +23,10 @@
 6. Выводим исходный массив и получившийся результат
 ## Блок-схема задачи
 ![Block-diagram](Final_test/picture/block_diagram.png)
+Ссылка на блок-схему 
+```
+https://drive.google.com/file/d/1l8yKSB76FPd4EGniTsztQlZSkqTbNn6d/view?usp=sharing
+```
 ## Код задачи
 ```
 Console.Write("Введите длинну массива -> ");
